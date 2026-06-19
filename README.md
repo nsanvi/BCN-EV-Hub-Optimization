@@ -66,4 +66,4 @@ Open Data Ajuntament de Barcelona:
 
 ---
 
-Nicolás San Vicente · Máster en Data Analytics · EADA Business School · Junio 2026
+Nicolás San Vicente · Junio 2026
