@@ -1,9 +1,9 @@
 # Core Data Processing
 pandas>=2.0.0,<3.0.0
-numpy>=1.24.0,<2.0.0
+numpy>=1.24.0,<3.0.0
 
 # Geospatial Libraries
-geopandas>=0.14.0,<1.0.0
+geopandas>=1.0.0,<2.0.0
 shapely>=2.0.0,<3.0.0
 
 # Machine Learning

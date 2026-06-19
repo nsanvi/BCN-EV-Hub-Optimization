@@ -44,6 +44,7 @@ Thumbs.db
 # Planning files (local only)
 planning1.txt
 premisadistribucioncarga.txt
+CLAUDE.md
 
 # Utility scripts
 clear_notebook_outputs.py
