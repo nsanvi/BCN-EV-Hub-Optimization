@@ -1,6 +1,6 @@
 # Optimización de la Red de Hubs de Carga para Vehículos Eléctricos en Barcelona
 
-**Presentación interactiva de resultados →** [Ver visualización](https://htmlpreview.github.io/?https://github.com/nsanvi/BCN-EV-Hub-Optimization/blob/main/entregable_proyecto/visualizacion_y_presentacion/index_v3_standalone.html)
+**Presentación interactiva de resultados →** [Ver visualización](https://nsanvi.github.io/BCN-EV-Hub-Optimization/entregable_proyecto/visualizacion_y_presentacion/index_v3_standalone.html)
 
 ---
 

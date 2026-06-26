@@ -41,11 +41,32 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Planning files (local only)
-planning1.txt
-premisadistribucioncarga.txt
+# Claude Code (instrucciones internas del entorno de desarrollo)
 CLAUDE.md
 
-# Utility scripts
+# Scripts de debug/utilidad local
 clear_notebook_outputs.py
 debug_chargers.py
+
+# Notas y documentación interna del proceso
+docs/
+planning1.txt
+premisadistribucioncarga.txt
+
+# Assets de trabajo locales (capturas de pantalla, logos sueltos)
+assets/
+
+# Carpeta de trabajo de la presentación 19 junio (versión final en entregable_proyecto/)
+presentacion1906/
+
+# Archivo comprimido de entrega (entregado por canal oficial)
+proyecto_data_analytics_NicolasSanVicente.zip
+
+# Archivos de copia/respaldo y visualizaciones de trabajo
+visualizacion/
+
+# Código fuente de trabajo en raíz (versión final en entregable_proyecto/notebooks_src/)
+/notebooks/
+/src/
+/data/
+/requirements.txt
